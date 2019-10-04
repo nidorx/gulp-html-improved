@@ -1,3 +1,4 @@
+const fs = require('fs');
 const log = require('fancy-log');
 const through = require('through2');
 const PluginError = require('plugin-error');
