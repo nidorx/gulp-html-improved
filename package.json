@@ -1,0 +1,45 @@
+{
+  "name": "gulp-html-improved",
+  "version": "0.2.0",
+  "description": "Gulp plugin for html-improved",
+  "homepage": "https://github.com/nidorx/gulp-html-improved",
+  "author": {
+    "name": "Alex Rodin",
+    "email": "contato@alexrodin.info",
+    "url": "http://www.alexrodin.info/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nidorx/gulp-html-improved.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nidorx/gulp-html-improved/issues"
+  },
+  "licenses": [
+    {
+      "type": "GPL2",
+      "url": "https://github.com/nidorx/gulp-html-improved/blob/master/LICENSE"
+    }
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "through2": "^3.0.1",
+    "html-improved": "0.2.x"
+  },
+  "peerDependencies": {
+    "gulp": "*"
+  },
+  "keywords": [
+    "grunt",
+    "gruntplugin",
+    "jade",
+    "hmtl",
+    "template",
+    "extends",
+    "include"
+  ],
+  "files": [
+    "tasks",
+    "LICENSE"
+  ]
+}
