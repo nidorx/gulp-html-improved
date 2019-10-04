@@ -39,7 +39,8 @@
     "include"
   ],
   "files": [
-    "tasks",
-    "LICENSE"
+    "index.js",
+    "LICENSE",
+    "README.md"
   ]
 }
