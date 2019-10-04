@@ -1,4 +1,4 @@
-# grunt-html-improved [![npm package](https://badge.fury.io/js/grunt-html-improved.svg)](https://www.npmjs.com/package/grunt-html-improved)
+# gulp-html-improved [![npm package](https://badge.fury.io/js/gulp-html-improved.svg)](https://www.npmjs.com/package/gulp-html-improved)
 
 Gulp plugin for [html-improved](https://github.com/nidorx/html-improved)
 
