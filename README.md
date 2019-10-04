@@ -11,10 +11,12 @@ _Run this task with the `gulp` command._
 
 
 #### verbose
+Type: `Boolean`
+
 Show files info
 
-#### defaultVars
-Type: `Object|Function`
+#### locals|data
+Type: `Object`
 
 Sets the variables passed to **Html Improved** during template compilation. Any data can be passed to the template.
 
