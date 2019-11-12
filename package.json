@@ -1,6 +1,6 @@
 {
   "name": "gulp-html-improved",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "description": "Gulp plugin for html-improved",
   "homepage": "https://github.com/nidorx/gulp-html-improved",
   "author": {
@@ -24,7 +24,7 @@
   "main": "index.js",
   "dependencies": {
     "through2": "^3.0.1",
-    "html-improved": "0.2.3"
+    "html-improved": "0.2.4"
   },
   "peerDependencies": {
     "gulp": "*"
